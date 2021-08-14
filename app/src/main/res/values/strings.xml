@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">X Donor</string>
+    <string name="login_">Login</string>
+    <string name="forgottext">Forget Password?</string>
+    <string name="not_registered">"Do not have an acount? Singup now! "</string>
+    <string name="personal_info">Personal Infromation</string>
+    <string name="recover_pass">Recover Password</string>
+    <string name="submit">Sing up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
